@@ -19,6 +19,8 @@
     <br />
     <a href="https://github.com/MarianoAkaMery/smoking-cord"><strong>Explore the docs »</strong></a>
     <br />
+    <a href="https://discord.gg/NQd2JpZpFj"><strong>Join the Discord server »</strong></a>
+    <br />
     <br />
     <a href="https://github.com/MarianoAkaMery/smoking-cord">View Demo</a>
     ·
