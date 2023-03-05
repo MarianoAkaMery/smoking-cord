@@ -1,1 +1,2 @@
-
+discord-py-interactions==4.4.0b1
+pymongo==4.3.3
