@@ -112,4 +112,4 @@ Distributed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4
 [issues-shield]: https://img.shields.io/github/issues/MarianoAkaMery/smoking-cord.svg?style=for-the-badge
 [issues-url]: https://github.com/MarianoAkaMery/smoking-cord/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: [https://linkedin.com/in/othneildrew](https://www.linkedin.com/in/salvatore-mariano-librici-0aaab3202/)
+[linkedin-url]: https://www.linkedin.com/in/salvatore-mariano-librici-0aaab3202/
