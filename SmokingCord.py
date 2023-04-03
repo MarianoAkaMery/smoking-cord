@@ -10,8 +10,6 @@ from bson.objectid import ObjectId
 bot = interactions.Client(
     token="YOUR TOKEN HERE",
     intents=interactions.Intents.DEFAULT | interactions.Intents.GUILD_MESSAGE_CONTENT,)
-
-client = interactions.Client(..., intents=interactions.Intents.DEFAULT | interactions.Intents.GUILD_MESSAGE_CONTENT)
 #------------------------------------------------------#
 #MongoDB Variable for connecting to the database
 #------------------------------------------------------#
