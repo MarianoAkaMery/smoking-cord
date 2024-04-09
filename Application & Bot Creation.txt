@@ -1,0 +1,37 @@
+Creating Application & Bot on Discord
+
+Create your app 
+Refer Settings on Left Handside Panel
+
+Under General Information
+	Nothing specific or important to change here
+
+Under Installation
+	Authorization Methods
+	Select Both Methods - User Install & Guild Install
+	Install Link
+	Choose Discord Provided link
+	Default Install Settings- no changes
+	
+Under OAuth2
+	Redirects- https://127.0.0.1
+	OAuth2 URL Generator - Tick Bot
+	
+Under Bot
+	Click Reset token and it will display a new token. Save it in important place.
+	Authorization Flow
+		PUBLIC BOT - on off doesnt matter
+		REQUIRES OAUTH2 CODE GRANT - off
+		Privileged Gateway Intents - 
+			PRESENCE INTENT - on
+			SERVER MEMBERS INTENT - on
+			MESSAGE CONTENT INTENT - on 
+			Bot Permissions - Administrator
+		
+	Now go back to OAUTH2
+	OAuth2 URL Generator- tick bot again
+	BOT PERMISSIONS - administrator
+	GENERATED URL - copy the URL and paste it you browser and all the bot with Administrator permissions to the Server you have created
+		
+	
+
